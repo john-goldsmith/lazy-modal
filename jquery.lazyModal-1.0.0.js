@@ -198,7 +198,6 @@
         };
       };
       this.onAfterHide();
-      ESO.app.focusFirstFormField();
     };
 
     this.injectContent = function () {
@@ -316,7 +315,7 @@
             self.showModal();
           },
           error : function ( jqXHR, textStatus, errorThrown ) {
-            ESO.app.handleAjaxError(jqXHR, textStatus, errorThrown);
+            // TODO
           }
         });
       } else {
