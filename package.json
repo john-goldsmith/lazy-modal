@@ -1,8 +1,8 @@
 {
-  "name": "lazy-forms",
+  "name": "lazy-modal",
   "version": "1.0.0",
   "description": "A jQuery plugin to visually customize native HTML checkboxes and radio buttons.",
-  "main": "jquery.lazyForms-1.0.0.js",
+  "main": "jquery.lazyModal-1.0.0.js",
   "directories": {
     "example": "examples"
   },
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/john-goldsmith/lazy-forms.git"
+    "url": "https://github.com/john-goldsmith/lazy-modal.git"
   },
   "author": "John Goldsmith",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/john-goldsmith/lazy-forms/issues"
+    "url": "https://github.com/john-goldsmith/lazy-modal/issues"
   },
-  "homepage": "https://github.com/john-goldsmith/lazy-forms",
+  "homepage": "https://github.com/john-goldsmith/lazy-modal",
   "devDependencies": {
     "coffee-script": "^1.8.0",
     "del": "^0.1.3",
