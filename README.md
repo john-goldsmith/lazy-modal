@@ -11,6 +11,9 @@ A jQuery plugin to create customizable modal dialogs.
 - jQuery >= 1.4
 
 ## Usage
-``
+- `$("#selector").lazyModal();` to fire on event (click by default)
+- `$.lazyModal();` to fire automatically with no user interaction
+
+## Options
 
 ## To do
